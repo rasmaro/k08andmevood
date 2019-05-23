@@ -1,0 +1,6 @@
+Chris,25400,m
+Christella,94332,n
+Marie,59302,n
+Clarence,40590,m
+Kate,75400,n
+Dave,60302,m
